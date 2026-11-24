@@ -1,100 +1,69 @@
 # Hi, I'm Prabhjot Singh 👋
 
-### Electronics & Communication Engineering Student | GNDEC
+### Electronics & Communication Engineering Student | AI-Assisted Project Builder
 
-🎓 ECE student interested in software engineering,
-artificial intelligence, computer vision and electronics.
+🎓 Engineering student at GNDEC, interested in software development, artificial intelligence, computer vision and engineering applications.
 
-I enjoy building practical engineering applications
-that combine software development and technology.
+I enjoy identifying real-world problems, designing application logic, planning features and turning ideas into working software projects with the help of AI-assisted development tools.
 
----
+## 💡 What I Do
 
-## 🚀 Featured Projects
+- Identify problems and develop project concepts.
+- Design application logic, workflows and feature requirements.
+- Plan system functionality and user experiences.
+- Use AI tools to support coding, implementation and debugging.
+- Run applications, test features and improve functionality.
+- Continuously learn programming and software engineering.
+
+## 🚀 My Projects
 
 ### 1. EduLabX
-**Engineering Education & Simulation Platform**
-
-A web-based platform for engineering subjects,
-laboratory practicals and educational simulations.
-
-Tech Stack: Next.js, React, TypeScript, Tailwind CSS.
+Engineering education and laboratory simulation platform.
 
 [View Project](https://github.com/1231248393/EduLabX)
 
 ### 2. CircuitWeb
-**Browser-Based Circuit Design & Simulation**
-
-An educational circuit design workspace with
-electronic components, wiring, schematic interfaces
-and supported simulation models.
-
-Tech Stack: React, Vite, JavaScript, Three.js.
+Browser-based electronic circuit design and simulation workspace.
 
 [View Project](https://github.com/1231248393/CircuitWeb)
 
 ### 3. CampusHelpDesk
-**College Complaint Management System**
-
-A full-stack application with separate student
-and administrator portals for campus complaint management.
-
-Tech Stack: Python, Flask, React, MySQL.
+Campus support and student administration platform.
 
 [View Project](https://github.com/1231248393/CampusHelpDesk)
 
 ### 4. Face Detection Attendance System
-**AI-Based Authentication & Attendance Platform**
+Face authentication, student enrollment, lecture timetable and attendance management.
 
-A development project combining face authentication,
-student enrollment, lecture timetables and attendance
-management.
+[View Project — Private Repository](https://github.com/1231248393/face-detection-attendance)
 
-Tech Stack: Python, FastAPI, React, PostgreSQL,
-pgvector and Computer Vision.
+## 🛠️ Technologies I Am Exploring
 
-Status: Private development repository.
+- Programming: Python, JavaScript, TypeScript
+- Frontend: React, Next.js, Vite
+- Backend: FastAPI and API development
+- Database: PostgreSQL, MySQL
+- Tools: Git, GitHub, Docker
+- Interests: AI/ML, Computer Vision, Electronics Simulation
 
----
+## 🤖 My Approach to AI-Assisted Development
 
-## 🛠️ Technical Skills
+AI tools are part of my development workflow.
 
-| Category | Technologies |
-|---|---|
-| Programming | Python, JavaScript, TypeScript, SQL |
-| Frontend | React, Next.js, Vite, Tailwind CSS |
-| Backend | FastAPI, Flask |
-| Database | PostgreSQL, MySQL |
-| Tools | Git, GitHub, Docker, npm, pnpm |
-| Engineering | Circuit Design, Computer Vision, Simulation |
+I contribute the project concepts, requirements, feature logic, system workflows, development decisions and testing. AI tools help me with code generation, implementation guidance and debugging.
 
----
+I am continuously improving my independent programming and technical problem-solving skills.
 
-## 🎯 Areas of Interest
+## 🎯 Current Learning Goals
 
-- Artificial Intelligence & Machine Learning
-- Computer Vision and Face Recognition
-- Full-Stack Web Development
-- Electronics and Communication Systems
-- Engineering Simulation and Design
+- Build strong programming fundamentals.
+- Understand and modify code independently.
+- Learn software architecture and database design.
+- Develop practical AI/ML and computer vision skills.
+- Improve debugging, testing and deployment abilities.
 
----
+## 🤝 Career Interests
 
-## 📚 Currently Learning
-
-- Advanced Python and AI/ML
-- Practical Software Engineering
-- Computer Vision Applications
-- Backend API Development
-- Electronics Simulation
-
----
-
-## 🤝 Connect
-
-GitHub: [@1231248393](https://github.com/1231248393)
-
----
+Open to learning opportunities, student internships, collaborative projects and practical engineering challenges.
 
 ⭐ Thanks for visiting my GitHub profile!
-
